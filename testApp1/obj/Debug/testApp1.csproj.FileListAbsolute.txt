@@ -1,0 +1,135 @@
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\ApplicationInsights.config
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\csc.exe
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\csc.exe.config
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\csc.rsp
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\csi.exe
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\csi.rsp
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\System.AppContext.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\System.Collections.Immutable.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\System.Console.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\System.IO.FileSystem.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\System.Reflection.Metadata.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\vbc.exe
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\vbc.exe.config
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\vbc.rsp
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\VBCSCompiler.exe
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\roslyn\VBCSCompiler.exe.config
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\testApp1.dll.config
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\testApp1.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\testApp1.pdb
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Antlr3.Runtime.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.Agent.Intercept.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.DependencyCollector.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.Web.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.WindowsServer.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.ApplicationInsights.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.Web.Infrastructure.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Newtonsoft.Json.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.Helpers.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.Mvc.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.Optimization.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.Razor.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.WebPages.Deployment.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.WebPages.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.WebPages.Razor.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\WebGrease.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Antlr3.Runtime.pdb
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.DependencyCollector.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.Web.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.AI.WindowsServer.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.ApplicationInsights.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\Newtonsoft.Json.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.Helpers.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.Mvc.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.Optimization.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.Razor.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.WebPages.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.WebPages.Deployment.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\bin\System.Web.WebPages.Razor.xml
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\obj\Debug\testApp1.csprojResolveAssemblyReference.cache
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\obj\Debug\testApp1.dll
+\\lan.local\staff\jason.phillips\my documents\visual studio 2015\Projects\testApp1\testApp1\obj\Debug\testApp1.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\ApplicationInsights.config
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\csc.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\csc.exe.config
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\csc.rsp
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\csi.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\csi.rsp
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\System.AppContext.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\System.Console.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\vbc.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\vbc.exe.config
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\vbc.rsp
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\testApp1.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\testApp1.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Antlr3.Runtime.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.Web.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Newtonsoft.Json.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.Helpers.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.Mvc.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.Optimization.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.Razor.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.WebPages.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\WebGrease.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Antlr3.Runtime.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.Web.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\Newtonsoft.Json.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.Optimization.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.Helpers.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.Mvc.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.Razor.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.WebPages.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\obj\Debug\testApp1.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\obj\Debug\testApp1.dll
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\testApp1\testApp1\obj\Debug\testApp1.pdb

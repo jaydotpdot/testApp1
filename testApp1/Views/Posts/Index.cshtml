@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>HA! index page</h1>
+
+@if (true) {
+    <text> <!-- <text> tag allows you render html inside of the C# block -->
+        Hey There!
+    </text>
+
+    <!-- html tag allows you render html inside of the C# block -->
+    <p>paragraph!</p>
+
+    <!-- "at colon" allows you render html inside of the C# block (SINGLE LINE)-->
+    @: at colon
+}
+
+
+
+@section scripts{
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+
+    <script type="text/javascript" src="//www.google.com/jsapi"></script>
+    <script type="text/javascript" src="~/Scripts/iscroll.js"></script>
+    <script type="text/javascript" src="~/Scripts/velocity.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/timeline/timeline.js"></script>
+    <script type="text/javascript" src="~/Scripts/timeline/timeline-locales.min.js"></script>
+    <!--<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular-route.min.js"></script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular-animate.min.js"></script>
+
+    <script src="scripts/ngDialog.js"></script>    -->
+    <script type="text/javascript" src="~/Scripts/script.js"></script>
+}
+
+
