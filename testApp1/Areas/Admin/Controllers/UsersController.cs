@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace testApp1.Areas.Admin.Controllers
 {
+    [Authorize(Roles = "admin")]
     public class UsersController : Controller
     {
         // GET: Admin/Users

@@ -25,6 +25,29 @@
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                 </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li>
+                            <a>Welcome back, @User.Identity.Name</a>
+                        </li>
+                        <li>
+                            <a href="@Url.RouteUrl("logout")">Logout</a>
+                        </li>
+                        if (User.IsInRole("admin"))
+                        {
+                            <li>
+                                <a href="@Url.Action("index", "Posts", new{area="admin"})">View ADMIN posts</a>
+                            </li>
+                        }
+                    }
+                    else
+                    {
+                        <li>
+                            <a href="@Url.RouteUrl("login")">Login</a>
+                        </li>
+                    }
+                </ul>
             </div>
         </div>
     </div>
